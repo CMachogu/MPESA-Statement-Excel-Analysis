@@ -17,7 +17,7 @@ The analysis of the MPESA statement involved examining various aspects of my fin
 
 **Budgeting:** Assessing whether my spending aligns with my budgetary goals and identifying areas where I can cut costs or increase savings.
 
-**Identifying anomalies: **Identifying any unusual or unexpected transactions requiring further investigation or clarification.
+**Identifying anomalies:** Identifying any unusual or unexpected transactions requiring further investigation or clarification.
 
 **Tools Used**
 
@@ -27,7 +27,7 @@ The analysis was conducted using Microsoft Excel, a powerful spreadsheet program
 
 **Data:** Contains the MPESA statement data in CSV format.
 
-**Analysis: **Contains the Excel spreadsheet with the analysis of the MPESA statement.
+**Analysis:** Contains the Excel spreadsheet with the analysis of the MPESA statement.
 
 **Visualizations:** Contains any visualizations generated during the analysis process.
 
