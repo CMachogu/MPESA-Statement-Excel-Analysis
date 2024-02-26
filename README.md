@@ -8,10 +8,15 @@ MPESA is a popular mobile money service in Kenya that allows users to send, rece
 **Data Analysis**
 
 The analysis of the MPESA statement involved examining various aspects of my financial transactions over one year. This included:
+
 **Tracking income:** Identifying sources of income such as salary deposits, business transactions, or remittances from family and friends.
+
 **Monitoring expenses:** Categorizing expenditures into different categories such as bills, groceries, transportation, entertainment, etc.
+
 **Identifying trends:** Analyzing patterns and trends in income and expenses over time to gain insights into my spending habits and financial behavior.
+
 **Budgeting:** Assessing whether my spending aligns with my budgetary goals and identifying areas where I can cut costs or increase savings.
+
 **Identifying anomalies: **Identifying any unusual or unexpected transactions requiring further investigation or clarification.
 
 **Tools Used**
@@ -21,7 +26,9 @@ The analysis was conducted using Microsoft Excel, a powerful spreadsheet program
 **Repository Structure**
 
 **Data:** Contains the MPESA statement data in CSV format.
+
 **Analysis: **Contains the Excel spreadsheet with the analysis of the MPESA statement.
+
 **Visualizations:** Contains any visualizations generated during the analysis process.
 
 **Acknowledgments**
