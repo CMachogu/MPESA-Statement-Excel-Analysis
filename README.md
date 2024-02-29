@@ -4,6 +4,8 @@ This repository contains the data analysis of my annual MPESA statement from Feb
 **Overview**
 
 MPESA is a popular mobile money service in Kenya that allows users to send, receive, and store money using their mobile phones. An annual statement provides a comprehensive overview of all transactions conducted through the MPESA platform during a specified period.
+![Cleaned Data](https://github.com/CMachogu/MPESA-Statement-Excel-Analysis/assets/159150903/6651a870-c13f-4b78-af42-652305446b8b)
+
 
 **Data Analysis**
 
@@ -18,10 +20,14 @@ The analysis of the MPESA statement involved examining various aspects of my fin
 **Budgeting:** Assessing whether my spending aligns with my budgetary goals and identifying areas where I can cut costs or increase savings.
 
 **Identifying anomalies:** Identifying any unusual or unexpected transactions requiring further investigation or clarification.
+![Using Power Query to Clean Data](https://github.com/CMachogu/MPESA-Statement-Excel-Analysis/assets/159150903/32e8c74a-a285-4133-9c16-0d4230136f81)
+
 
 **Tools Used**
 
 The analysis was conducted using Microsoft Excel, a powerful spreadsheet program that allows for data manipulation, visualization, and analysis. Excel's built-in functions, formulas, and features were utilized to perform various calculations and generate visualizations such as charts and graphs.
+![Screenshot 2024-02-27 123739](https://github.com/CMachogu/MPESA-Statement-Excel-Analysis/assets/159150903/d1afcfd3-475b-46ad-b77e-6ea2fe6f8473)
+
 
 **Repository Structure**
 
@@ -30,6 +36,8 @@ The analysis was conducted using Microsoft Excel, a powerful spreadsheet program
 **Analysis:** Contains the Excel spreadsheet with the analysis of the MPESA statement.
 
 **Visualizations:** Contains any visualizations generated during the analysis process.
+![Screenshot 2024-02-29 162529](https://github.com/CMachogu/MPESA-Statement-Excel-Analysis/assets/159150903/c20772db-97fe-4ddf-8ed4-b5a1ca503b70)
+
 
 **Acknowledgments**
 
